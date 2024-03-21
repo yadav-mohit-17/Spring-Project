@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN"
+        "http://www.springframework.org/dtd/spring-beans-2.0.dtd">
+
+<beans>
+	<bean id="product" class="com.product.Product">
+		<property name="productId" value="183601"/>
+		<property name="productName" value="Iphone15"/>
+		<property name="price" value="140000"/>
+	</bean>
+	
+	<bean id="order" class="com.product.Order">
+		<property name="orderId" value="XYZ1001"/>
+		<property name="price" value="3000"/>
+	
+		<property name="items">
+			<list>
+				<value>Coke</value>
+				<value>Chocalate</value>
+				<value>WaterBottol</value>
+			</list>
+		</property>
+		<property name="item1">
+			<set>
+				<value>Chicken Biryani</value>
+				<value>Chicken Tikka</value>
+				<value>Tikka Kabab</value>
+				<value>Sprite</value>
+				<value>Chicken Biryani</value>
+				<value>Sprite</value>
+			</set>
+		</property>
+		<property name="item2">
+			<map>
+				<entry key="Coke" value="90"></entry>
+				<entry key="Sprite" value="79"></entry>
+				<entry key="Pepsi" value="120"></entry>
+				<entry key="Frooty" value="45"></entry>
+				<entry key="Coca-Cola" value="70"></entry>
+			</map>
+		</property>
+	</bean>
+</beans>

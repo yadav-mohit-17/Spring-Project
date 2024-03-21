@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN"
+        "http://www.springframework.org/dtd/spring-beans-2.0.dtd">
+
+<beans>
+	<bean id="product" class="com.product.Product">
+		<constructor-arg value="ACC1001"></constructor-arg>
+		<constructor-arg value="Iphone12"></constructor-arg>
+		<constructor-arg value="90000"></constructor-arg>
+		<constructor-arg value="false"></constructor-arg>
+		<constructor-arg>
+			<list>
+				<value>Iphone8</value>
+				<value>Iphone9</value>
+				<value>Iphone10</value>
+				<value>Iphone11</value>
+				<value>Iphone13</value>
+				<value>Iphone14</value>
+				<value>Iphone15</value>
+			</list>
+		</constructor-arg>
+		<constructor-arg>
+			<set>
+				<value>Iphone1</value>
+				<value>Iphone2</value>
+				<value>Iphone2</value>
+				<value>Iphone3</value>
+				<value>Iphone4</value>
+				<value>Iphone4</value>
+				<value>Iphone5</value>
+				<value>Iphone6</value>
+			</set>
+		</constructor-arg>
+		<constructor-arg>
+			<map>
+				<entry key="Iphone1" value="50000"></entry>
+				<entry key="Iphone2" value="60000"></entry>
+				<entry key="Iphone3" value="70000"></entry>
+				<entry key="Iphone4" value="80000"></entry>
+				<entry key="Iphone5" value="90000"></entry>
+				<entry key="Iphone6" value="100000"></entry>
+			</map>
+		</constructor-arg>
+	</bean>
+
+</beans>

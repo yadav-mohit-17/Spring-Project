@@ -1,0 +1,6 @@
+127.0.0.1 - - [23/Dec/2023:13:05:16 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [23/Dec/2023:13:05:16 +0530] "GET /Project_1/WEB-INF/classes/com/spring/controller/EmployeeController.java HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [23/Dec/2023:13:05:17 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [23/Dec/2023:13:24:30 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [23/Dec/2023:13:24:31 +0530] "GET /spring_using_jsp/ HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [23/Dec/2023:13:24:31 +0530] "GET /favicon.ico HTTP/1.1" 404 762

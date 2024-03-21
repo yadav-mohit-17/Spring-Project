@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN"
+        "http://www.springframework.org/dtd/spring-beans-2.0.dtd">
+
+<beans>
+	<bean id="product" class="com.flipcart.product.Product">
+		<constructor-arg value="101"></constructor-arg>
+		<constructor-arg value="Lenevo-Laptop"></constructor-arg>
+	</bean>
+	<bean id="order" class="com.flipcart.order.Order">
+		<property name="orderId" value="ord10001"/>
+		<property name="orderValue" value="120000"/>
+		<property name="product" ref="product"/>
+	</bean>
+	<bean id="ordermanagement" class="com.flipcart.order.OrderManagement">
+		<property name="noOfOrders" value="1"/>
+		<property name="totalAmount" value="360000"/>
+		<property name="order" ref="order"/>
+	</bean>
+</beans>

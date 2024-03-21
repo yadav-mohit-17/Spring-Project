@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="D:\Java Program\Eclipse IDE\Spring\employee_crud\src\main\webapp\WEB-INF\spring-servlet.xml"/>
+			<item value="D:\Java Program\Eclipse IDE\Spring\spring-mvc-app6"/>
+			<item value="D:\Java Program\Eclipse IDE\Spring\spring-mvc-app6\src\main\java\com\swiggy\order\repository\OrderRepository.java"/>
+			<item value="D:\Java Program\Eclipse IDE\Spring\spring-mvc-app6\src\main\java\com\spring\configuration\SpringJpaConfiguration.java"/>
+			<item value="D:\Java Program\Eclipse IDE\Spring"/>
+			<item value="D:\Java Program\Eclipse IDE"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.hibernate.with.data.jpa"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="HibernateWithDataJpa_Practice"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="1.0"/>
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item key="width" value="480"/>
+		<item key="height" value="836"/>
+		<item key="x" value="1117"/>
+		<item key="y" value="151"/>
+	</section>
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="TestPoject"/>
+			<item value="spring-mvc-project"/>
+			<item value="spring-mvc-view"/>
+			<item value="Project_1"/>
+			<item value="spring_using_jsp"/>
+			<item value="zomato_JWT"/>
+			<item value="google"/>
+			<item value="flipkart"/>
+			<item value="Payment"/>
+			<item value="crud_application"/>
+			<item value="com.satru"/>
+			<item value="com.employee"/>
+			<item value="spring-mvc-app8"/>
+			<item value="spring-mvc-app6"/>
+			<item value="spring-mvc-app5"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="TestPoject"/>
+			<item value="spring-mvc-project"/>
+			<item value="spring-mvc-view"/>
+			<item value="Project_1"/>
+			<item value="spring_using_jsp"/>
+			<item value="zomato_JWT"/>
+			<item value="google"/>
+			<item value="flipkart"/>
+			<item value="Payment"/>
+			<item value="crud_application"/>
+			<item value="springaop"/>
+			<item value="employee_crud"/>
+			<item value="spring-mvc-app8"/>
+			<item value="spring-mvc-app6"/>
+			<item value="spring-mvc-app5"/>
+		</list>
+		<list key="version">
+			<item value="1.0"/>
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenModuleWizardParentPage">
+		<list key="moduleName">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="D:\HibernateWithDataJpa"/>
+			<item value="D:\Java Program\Eclipse IDE\mywebproject"/>
+			<item value="D:\Java Program\Eclipse IDE\Spring\do"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

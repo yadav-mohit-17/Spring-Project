@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN"
+        "http://www.springframework.org/dtd/spring-beans-2.0.dtd">
+
+<beans>
+	<bean id="accountdetail" class="com.icici.account.AccountDetail" scope="prototype">
+		<property name="personName" value="Mohit Yadav"/>
+		<property name="accountNumber" value="44288100000455"/>
+	</bean>
+	<bean id="accountdetail2" class="com.icici.account.AccountDetail">
+		<property name="personName" value="Hello"/>
+		<property name="accountNumber" value="300099932"/>
+	</bean>
+</beans>

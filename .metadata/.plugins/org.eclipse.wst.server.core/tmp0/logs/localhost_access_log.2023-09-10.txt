@@ -1,0 +1,7 @@
+127.0.0.1 - - [10/Sep/2023:20:33:23 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [10/Sep/2023:20:33:24 +0530] "GET /crud_application/ HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [10/Sep/2023:20:33:24 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [10/Sep/2023:20:33:39 +0530] "GET /crud_application/student/fetch HTTP/1.1" 200 110
+0:0:0:0:0:0:0:1 - - [10/Sep/2023:20:33:47 +0530] "GET /crud_application/student/fetch/std101 HTTP/1.1" 200 108
+0:0:0:0:0:0:0:1 - - [10/Sep/2023:20:33:53 +0530] "GET /crud_application/student/fetch/std102 HTTP/1.1" 500 3574
+0:0:0:0:0:0:0:1 - - [10/Sep/2023:20:34:00 +0530] "GET /crud_application/student/fetch/std101 HTTP/1.1" 200 108
