@@ -22247,3 +22247,4 @@ Caused by: java.lang.ExceptionInInitializerError: Cannot access defaults field o
 2024-02-14 13:36:16,122 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2024-02-14 13:36:16,125 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FullStackJava\java\Eclipse IDE\Spring\zomato_JWT\src\test\resources
 2024-03-07 12:54:38,235 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-04-28 12:21:47,092 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
